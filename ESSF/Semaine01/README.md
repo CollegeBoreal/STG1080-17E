@@ -8,16 +8,16 @@
 
 # Mercredi 
 
-### Tache executees: 
-   * Verification de l'installation du logiciel [EasyC V5](https://www.vexrobotics.com/easyc-v5.html) et verifier la license 
-   * Recherche sur les projets [VEX](https://www.vexrobotics.com/), [MIT App Inventor](http://appinventor.mit.edu/explore/) et Wix.com
-   * Commencement de la plannification et modification des cours ICS4U et ICS3U sur le site de l'[apprentissage](http://essfsoccerfranco.wixsite.com/infotechnodesign). 
-   * Recherche sur les cours informatiques, la description, les buts et autre information pertinente qui pourrait etre utile pour le site.
-   * Recherche sur l'installation de license sur les ordinateurs dont la license etait expiree. Chercher une solution au probleme d'installation
-   * Preparation d'une platforme de teste ou j'effectuera l'evaluation des capteurs et autre composants que les eleves utiliseront pour faire leurs projet 
+### Tache exécutées : 
+   * Vérification  de l'installation du logiciel [EasyC V5](https://www.vexrobotics.com/easyc-v5.html) et vérifier la licence 
+   * Recherche sur les projets [VEX](https://www.vexrobotics.com/), [MIT App Inventor](http://appinventor.mit.edu/explore/) et [Wix](wix.com)
+   * Commencement de la plannification et modification des cours ICS4U et ICS3U sur le site d'[apprentissage](http://essfsoccerfranco.wixsite.com/infotechnodesign). 
+   * Recherche sur les cours informatiques, les descriptions, les buts et autres informations pertinentes qui pourraient être utile pour le site
+   * Recherche sur l'installation de licence sur les ordinateurs dont la license étant expirée. Chercher une solution au problème  d'installation
+   * Préparation  d'une platforme de teste ou j'effectuera l'évaluation  des capteurs et autre composants que les élèves utiliseront pour faire leurs projet 
    
 ### Ce que j'ai appris : 
-   * Utiliser la plateforme Wix
+   * Utiliser la plateforme [Wix](wix.com)
    * Ce qui est requis pour les eleves de 11e et 12e dans le cours d'informatique
 
 # Jeudi 
