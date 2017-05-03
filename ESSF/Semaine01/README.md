@@ -1,4 +1,3 @@
-
 # Description du rôle pendant le stage. 
 
    * Modifier et créer des pages pour un [site](http://essfsoccerfranco.wixsite.com/infotechnodesign) qui aide les élevés à trouver les projets, descriptions et ateliers de cours. Implémenter des descriptions et autres détails.
@@ -18,7 +17,7 @@
    
 ### Ce que j'ai appris : 
    * Utiliser la plateforme [Wix](wix.com)
-   * Ce qui est requis pour les eleves de 11e et 12e dans le cours d'informatique
+   * Ce qui est requis pour les eleves de 11<sup>ème</sup> et 12<sup>ème</sup> dans le cours d'informatique
 
 # Jeudi 
 
