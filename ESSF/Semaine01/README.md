@@ -1,4 +1,4 @@
-# Lundi 
+# Mercredi 
 
 ### Description du role pendant le stage. 
 
@@ -6,5 +6,13 @@
    * Plannifier et gerer les ateliers liee aux projets de robotiques [VEX](https://www.vexrobotics.com/) et [LEGO Mindstorm](https://www.lego.com/fr-fr/mindstorms/?ignorereferer=true). Utiliser la programmation dans le language C pour gerer les composants et actions des robots. 
    * Implementer l'application mobile a partir de [MIT App Inventor](http://appinventor.mit.edu/explore/)
    * Creation de compte github pour gerer les projets des etudiants. 
+
+
+
+# Jeudi 
+
+
+
+# Vendredi
 
 
