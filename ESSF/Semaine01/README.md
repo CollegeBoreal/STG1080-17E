@@ -20,6 +20,12 @@
    * Ce qui est requis pour les eleves de 11<sup>ème</sup> et 12<sup>ème</sup> dans le cours d'informatique
 
 # Jeudi 
+### Tache exécutées : 
+   * Implementation de document de cours sur le site 
+   * Lister les projets et activites 
+   * Plannification du style que les pages auront 
+   * 
+
 
 
 
