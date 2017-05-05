@@ -23,13 +23,13 @@
 ### Tache exécutées : 
    * Implementation de document de cours sur le site 
    * Lister les projets et activites 
-   * Plannification du style que les pages auront 
-   * 
-
-
-
+   * Plannifier et creer des styles pour les pages de projet
+   * Mettre en ligne les documents de pratiques guidees, grilles d'evaluations et descriptions de projets
+   * Lier les documents a des liens specifiques sur le site  
+   * Preparation de plateformes de test pour le projet de robotique
+   
+### Ce que j'ai appris :
+   * Creer differents designs sur [wix](wix.com) 
+   * Aquerir plus de connaissances sur les projets
 
 # Vendredi
-
-
-
