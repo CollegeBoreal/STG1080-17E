@@ -33,3 +33,12 @@
    * Aquerir plus de connaissances sur les projets
 
 # Vendredi
+### Tache exécutées : 
+   * Lier d'autres documents aux pages de projets
+   * Creer des slideshows pour les pages projets de 11<sup>ème</sup> et 12<sup>ème</sup> qui montre les projets de robotiques, les eleves et les competitions.
+   * Commencer la documentation sur la page de projet des 12<sup>ème</sup> annees
+   * Terminer les plateformes de tests pour les composants de VEX
+   * Aider les eleves de 12<sup>ème</sup> annee avec leurs projet d'application mobile 
+   
+### Ce que j'ai appris :
+   * Travailler avec [MIT App Inventor](http://appinventor.mit.edu/explore/)
