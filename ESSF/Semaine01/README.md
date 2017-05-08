@@ -23,13 +23,22 @@
 ### Tache exécutées : 
    * Implementation de document de cours sur le site 
    * Lister les projets et activites 
-   * Plannification du style que les pages auront 
-   * 
-
-
-
+   * Plannifier et creer des styles pour les pages de projet
+   * Mettre en ligne les documents de pratiques guidees, grilles d'evaluations et descriptions de projets
+   * Lier les documents a des liens specifiques sur le site  
+   * Preparation de plateformes de test pour le projet de robotique
+   
+### Ce que j'ai appris :
+   * Creer differents designs sur [wix](wix.com) 
+   * Aquerir plus de connaissances sur les projets
 
 # Vendredi
-
-
-
+### Tache exécutées : 
+   * Lier d'autres documents aux pages de projets
+   * Creer des slideshows pour les pages projets de 11<sup>ème</sup> et 12<sup>ème</sup> qui montre les projets de robotiques, les eleves et les competitions.
+   * Commencer la documentation sur la page de projet des 12<sup>ème</sup> annees
+   * Terminer les plateformes de tests pour les composants de VEX
+   * Aider les eleves de 12<sup>ème</sup> annee avec leurs projet d'application mobile 
+   
+### Ce que j'ai appris :
+   * Travailler avec [MIT App Inventor](http://appinventor.mit.edu/explore/)
