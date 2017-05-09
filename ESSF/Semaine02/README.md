@@ -11,5 +11,9 @@
    * fait un plan de design de nouvelles pages 
 ### Ce que j’ai appris :  
    * 
-
-
+# Mardi 
+### Taches accomplies :
+   * Verifié la connestion sur les plateformes de tests de robots VEX 
+   * Preparé les codes de test dans le logiciel [EasyC V5](https://www.vexrobotics.com/easyc-v5.html)
+   * Assisté des élèves avec leurs projets de [MIT App Inventor](http://appinventor.mit.edu/explore/) 
+# Ce que j'ai appris : 
