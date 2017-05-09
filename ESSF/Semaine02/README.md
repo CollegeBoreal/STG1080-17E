@@ -16,10 +16,10 @@
    * Verifié la connestion sur les plateformes de tests de robots VEX 
    * Preparé les codes de test dans le logiciel [EasyC V5](https://www.vexrobotics.com/easyc-v5.html)
    * Assisté des élèves avec leurs projets de [MIT App Inventor](http://appinventor.mit.edu/explore/)
-   * Upload et implantation de videos dans les slide shows 
-   * Fait de l'edition de video sur [Lightworks](https://www.lwks.com/)
-   * Termine la page d'unite 4 des cours ICS4 et ICS3
-   * Preparation d'un plan pour les autres unites
+   * Upload et implantation de vidéos dans les slide shows 
+   * Fait de l'édition de vidéo sur [Lightworks](https://www.lwks.com/)
+   * Terminé la page d'unité 4 des cours ICS4 et ICS3
+   * Préparation d'un plan pour les autres unités
 ### Ce que j'ai appris : 
    * Utiliser le logiciel [EasyC V5](https://www.vexrobotics.com/easyc-v5.html) pour programmer les composants 
-   * Utiliser le logiciel [Lightworks](https://www.lwks.com/) pour editer les videos 
+   * Utiliser le logiciel [Lightworks](https://www.lwks.com/) pour éditer les vidéos 
