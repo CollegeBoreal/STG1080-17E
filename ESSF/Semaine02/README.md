@@ -10,7 +10,7 @@
    * Connecté les liens d’un deuxième menu à celui des nouvelles pages. 
    * fait un plan de design de nouvelles pages 
 ### Ce que j’ai appris :  
-   * 
+   * -
 # Mardi 
 ### Taches accomplies :
    * Verifié la connestion sur les plateformes de tests de robots VEX 
@@ -23,3 +23,13 @@
 ### Ce que j'ai appris : 
    * Utiliser le logiciel [EasyC V5](https://www.vexrobotics.com/easyc-v5.html) pour programmer les composants 
    * Utiliser le logiciel [Lightworks](https://www.lwks.com/) pour éditer les vidéos 
+# Mercredi 
+### Taches accomplies :
+   * Installé d'équipement technique pour présentation vidéo
+   * Géré la plateforme de son
+   * Suivi les explications et instructions selon le plan de feuilles
+   * Préparé les pages web qui inclueont les autres unités 
+   * Préparé les documents d'activités pour les robots Lego Mindstorm
+### Ce que j'ai appris :
+   * Suivre les instructions pour une presentation coordonées 
+   * 
