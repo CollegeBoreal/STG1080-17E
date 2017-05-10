@@ -31,5 +31,5 @@
    * Préparé les pages web qui inclueont les autres unités 
    * Préparé les documents d'activités pour les robots Lego Mindstorm
 ### Ce que j'ai appris :
-   * Suivre les instructions pour une presentation coordonées 
+   * Suivre les instructions pour une présentation coordonées 
    * 
