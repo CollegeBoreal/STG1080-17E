@@ -10,7 +10,7 @@
    * Connecté les liens d’un deuxième menu à celui des nouvelles pages. 
    * fait un plan de design de nouvelles pages 
 ### Ce que j’ai appris :  
-   * -
+   * ~
 # Mardi 
 ### Taches accomplies :
    * Verifié la connestion sur les plateformes de tests de robots VEX 
