@@ -32,4 +32,17 @@
    * Préparé les documents d'activités pour les robots Lego Mindstorm
 ### Ce que j'ai appris :
    * Suivre les instructions pour une présentation coordonées 
+# Jeudi
+### Taches accomplies : 
+   * Suivis le document d'exercises pour corriger le code et améliorer la documentation
+   * Ajouté et enlevé les images correspondantes aux activités
+   * Allé en detail à travers chaque activites pour trouver les erreurs
+   * Exécuter les activites grace a la télécommande  
+   * Modifié la plateforme de test au fur et à mesure que le code change et que différentes activités doivent être testées
+### Ce que j'ai appris : 
    * 
+# Vendredi
+### Taches accomplies : 
+   * 
+### Ce que j'ai appris : 
+   *
