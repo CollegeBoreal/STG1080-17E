@@ -31,7 +31,7 @@
    * Préparé les pages web qui inclueont les autres unités 
    * Préparé les documents d'activités pour les robots Lego Mindstorm
 ### Ce que j'ai appris :
-   * Suivre les instructions pour une présentation coordonées 
+   * Suivre les instructions pour une présentation coordonée
 # Jeudi
 ### Taches accomplies : 
    * Suivis le document d'exercises pour corriger le code et améliorer la documentation
@@ -40,9 +40,15 @@
    * Exécuter les activites grace a la télécommande  
    * Modifié la plateforme de test au fur et à mesure que le code change et que différentes activités doivent être testées
 ### Ce que j'ai appris : 
-   * 
+   * ~
 # Vendredi
 ### Taches accomplies : 
-   * 
+   * Terminé les activités 
+   * Ajouté les images, tableaux, documentations et autres
+   * Modifié et amelioré le code de certaines fonctionnalités 
+   * Pris des capture d'images pour les pratiques guidés 
+   * Correction de l'orthographe 
+   * Testé le code sur les plateformes de test
+   * Ajouté/modifié certains éléments et liens sur le site des classes informatiques
 ### Ce que j'ai appris : 
-   *
+   * ~
