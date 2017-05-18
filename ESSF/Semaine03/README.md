@@ -23,25 +23,24 @@
    * Apprendre à me servir du logiciel EV3
 # Mercredi 
 ### Taches accomplies : 
-   * Recherche de logiciel qui permet de prendre le controle de telephones a distance et projeter l'image 
-   * Installe le logiciel et le tester 
-   * Pratique de mise en places des composants robotique pour la foire des sciences
-   * Place et mis a jour le Go Pro pour pratiquer et finaliser les plannifications de la foire des sciences 
-   * Commence le robot Lego Mindstorm qui vas aller construire et traverser un pont
-   * Commence a ecrire le code et implementer des solutions au miltiples problemes. 
-   * Assiste des eleves avec la programmation des applications sur MIT App Inventor
-   * Montrer des eleves a acceder au site qui contient les cours
+   * Recherché de logiciel qui permet de prendre le contrôle de téléphones à distance et projeter l'image 
+   * Installé le logiciel et le tester 
+   * Pratiqué de mise en place des composants robotique pour la foire des sciences
+   * Placé et mis à jour le Go Pro pour pratiquer et finaliser les planifications de la foire des sciences 
+   * Commencé le robot Lego Mindstorm qui vas aller construire et traverser un pont
+   * Commencé à écrire le code et implémenter des solutions au multiples problèmes. 
+   * Assisté des élèves avec la programmation des applications sur MIT App Inventor
+   * Montré des élèves a accéder au site qui contient les cours
 ### Ce que j'ai appris : 
-   * Me servir du logiciel EV3 de Lego Mindstorm
-   * Modifier un robot en me servant des pieces Lego
+   * Utilisé le logiciel EV3 de Lego Mindstorm
+   * Modifié un robot en me servant des pièces Lego
 # Thursday
 ### Taches accomplies :
-   * Continue le projet de construction de pont 
-   * Change et modifie le robot pour le rendre plus fort et soulever les plateformes pour aller les deposer
-   * Modifie le terrain sur lequel le robot va construire le pont 
-   * Assiste des eleves avec la programmation des robots Vex
-   * Assiste des eleves avec la programmation d'application MIT App Inventor
+   * Continué le projet de construction de pont 
+   * Changé et modifié le robot pour le rendre plus fort et soulever les plateformes pour aller les déposer
+   * Modifié le terrain sur lequel le robot va construire le pont 
+   * Assisté des élèves avec la programmation des robots Vex
+   * Assisté des élèves avec la programmation d'application MIT App Inventor
 ### Ce que j'ai appris 
-   * Me servir des options du robot Lego Mindstorm pour m'aider a calculer la rotation, les angles et les autres capteurs 
-   * Porter attention au detail pour optimiser la performance du robot
-
+   * Utilisé des options du robot Lego Mindstorm pour m'aider à calculer la rotation, les angles et les données autres capteurs 
+   * Porter attention aux détails pour optimiser la performance du robot
