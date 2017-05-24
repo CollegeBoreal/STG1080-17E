@@ -47,7 +47,7 @@
 # Vendredi
 ### Taches accomplies :
    * Continué et terminé le programme sur la construction de pont Lego Mindstorm
-   * Fait le robot aller chercher 2 plateformes, les déposer une a la fois, traverser le pont, faire quelque rotation et jouer une musique.
-   * Adapté le terrain de construction au limites du robot 
+   * Fait le robot aller chercher 2 plateformes, les déposer une à la fois, traverser le pont, faire quelque rotation et jouer une musique.
+   * Adapté le terrain de construction aux limites du robot 
 ### Ce que j'ai appris
-   * Adapter la plateforme au programme que j'ai Ce que j'ai écrit
+   * Adapter la plateforme au programme que j'ai écrit
