@@ -11,4 +11,15 @@
 ### Ce que j'ai appris : 
    * Organiser le matériel et logiciels pour les classes 
    * Préparer et organiser une présentation pour une foire des sciences 
-   
+# Mercredi
+### Taches accomplies : 
+   * Fait la preparation du robots type VEX pour etre utilise comme prototype 
+   * Arrangé les cables le long du robot 
+   * Preparé les ordinateurs pour etre compatible avec les plateformes de test des eleves 
+   * Assisté les éleves avec leurs premiere fois sur les robots VEX 
+   * Reparer et trouver des solutions pour assister ceux qui avaient brisés leurs moteurs 
+   * Faire de la recherche sur le code de base pour controller le robot a partir de télécommande 
+   * Rangé les composants dans les places spécifiques et s'assurer que les plateformes sont en bon état
+   * Fait de la recheche pour trouver une facon a faire une plateforme compatible a la taille et au poids du robot
+### Ce que j'ai appris : 
+   * Faire des diagnostiques pour trouver les solutions au problemes des robots qui ne fonctionnaient pas bien
