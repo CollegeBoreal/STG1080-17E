@@ -22,5 +22,5 @@
    * Rangé les composants dans les places spécifiques et s'assurer que les plateformes sont en bon état
    * Fait de la recherche pour trouver une façon à faire une plateforme compatible a la taille et au poids du robot
 ### Ce que j'ai appris : 
-   * Faire des diagnostiques pour trouver les solutions au problèmes des robots qui ne fonctionnaient pas bien
+   * Faire des diagnostiques pour trouver les solutions aux problèmes des robots qui ne fonctionnaient pas bien
 # Jeudi
