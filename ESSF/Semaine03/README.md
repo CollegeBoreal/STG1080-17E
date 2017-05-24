@@ -34,7 +34,7 @@
 ### Ce que j'ai appris : 
    * Utilisé le logiciel EV3 de Lego Mindstorm
    * Modifié un robot en me servant des pièces Lego
-# Thursday
+# Jeudi
 ### Taches accomplies :
    * Continué le projet de construction de pont 
    * Changé et modifié le robot pour le rendre plus fort et soulever les plateformes pour aller les déposer
@@ -44,3 +44,10 @@
 ### Ce que j'ai appris 
    * Utilisé des options du robot Lego Mindstorm pour m'aider à calculer la rotation, les angles et les données autres capteurs 
    * Porter attention aux détails pour optimiser la performance du robot
+# Vendredi
+### Taches accomplies :
+   * Continué et terminé le programme sur la construction de pont Lego Mindstorm
+   * Fait le robot aller chercher 2 plateformes, les déposer une a la fois, traverser le pont, faire quelque rotation et jouer une musique.
+   * Adapté le terrain de construction au limites du robot 
+### Ce que j'ai appris
+   * Adapter la plateforme au programme que j'ai Ce que j'ai écrit
