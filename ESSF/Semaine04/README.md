@@ -25,3 +25,21 @@
    * Diagnostiquer les robots pour trouver les solutions aux problèmes
    * Les moteurs se branchent differement selon leurs type de connecteurs et leurs fonctionnalité
 # Jeudi
+### Taches accomplies : 
+   * Construction du robot prototype qui sera utilise comme example pour les eleves
+   * Ajoute le code pour le faire marcher a partir de la telecommande 
+   * Ajoute un capteur pour qu'il ne baisse pas plus qu'il devrait
+   * Cherche a faire un design de plateform qui sera bon pour le robot VEX car il est plus lourd
+   * Assure que toute les vis et ecrous sont bien places 
+### Ce que j'ai appris : 
+   ~ 
+# Vendredi
+### Taches acconplies :
+   * Termine la construction du robot et de ses composants qui le permet de bouger 
+   * Continue a faire ajouter les capteurs - Je dois ajouter tous les capteurs possible dans les places specifiques ou elles seront utilisee
+   * Faire un plan sur Google Sketchup du terrain que les robots vex seront 
+   * Commencer a chercher les morceaux de bois et les mesurer, tracer des lignes pour couper et les mettre de cote pour que ce soit pres
+   * Aide les eleves avec leurs plateformes de test Vex et Lego Mindstorm
+### Ce que j'ai appris :
+   * Travailler sur Google Sketchup Faire des plans avec des mesures specifique comme dans la vrai vie 
+   * Mesurer et chercher pour le materiel en bois necessaire pour faire la plateforme
